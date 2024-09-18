@@ -4,3 +4,4 @@ A way to exchange external ip between too machines and use port knocking as sing
 XXXXXXXX
 AAAA
 f-----f
+cccccc
