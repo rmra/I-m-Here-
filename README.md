@@ -6,3 +6,4 @@ AAAA
 f-----f
 cccccc
 ghost
+*"*"*"*"*"*"**
