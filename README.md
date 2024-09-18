@@ -5,3 +5,4 @@ XXXXXXXX
 AAAA
 f-----f
 cccccc
+ghost
