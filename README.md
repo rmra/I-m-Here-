@@ -7,3 +7,4 @@ f-----f
 cccccc
 ghost
 *"*"*"*"*"*"**
+nix
